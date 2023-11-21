@@ -1,0 +1,41 @@
+
+
+.contenter {
+    margin:auto;
+    text-align: center;
+    width: 800px;
+    border: 1px solid #000;
+
+}
+
+.banner {
+    text-align: center;
+    border:1px solid;
+    border-bottom: 5px solid #000;
+    background-color: #ffcc33;
+
+}
+
+.content {
+    text-align: center;
+    width: 570px;
+    height: 300px;
+    border: 1px solid #000;
+    float:left;
+
+}
+
+.links {
+    text-align: center;
+    border: 1px solid #000;
+    width: 227px;
+    height:300px;
+    float:left;
+
+}
+
+.footer {
+    text-align: center;
+    border: 1px solid #000;
+
+}
